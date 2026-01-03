@@ -8,8 +8,7 @@ Utilizes SwiftUI, Swift, Supabase, TypeScript, FCM, GitHub Actions.
 
 Testflight: https://testflight.apple.com/join/hmnqAqg1
 
-
-<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 04" src="https://github.com/user-attachments/assets/4a67f264-b33a-4c94-8e91-299f1be0c48e" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 49 51" src="https://github.com/user-attachments/assets/32e9209d-138b-4814-bca9-3ae76d4ece1c" />
 
 <img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 29" src="https://github.com/user-attachments/assets/7d4fa26e-5199-4a15-b8f7-bd81a1ab85fd" />
 
