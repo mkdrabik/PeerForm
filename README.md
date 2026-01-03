@@ -4,6 +4,8 @@ It's inevitable, everyone has days when they don't feel like doing things relate
 
 Users create an account, follow their friends, and then it begins. Every day users will get notifications about their friends completing workouts as well as other notifcations from the app if a user has not completed a workout by a chosen time on a day when they should have gone to gym.
 
+Utilizes SwiftUI, Swift, Supabase, TypeScript, FCM, GitHub Actions. 
+
 Testflight: https://testflight.apple.com/join/hmnqAqg1
 
 
