@@ -7,19 +7,18 @@ Users create an account, follow their friends, and then it begins. Every day use
 Testflight: https://testflight.apple.com/join/hmnqAqg1
 
 
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 04" src="https://github.com/user-attachments/assets/4a67f264-b33a-4c94-8e91-299f1be0c48e" />
 
-<img width="200" height="400" alt="IMG_9715" src="https://github.com/user-attachments/assets/6106d486-2d75-411d-b392-bf3605f7f8ef" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 29" src="https://github.com/user-attachments/assets/7d4fa26e-5199-4a15-b8f7-bd81a1ab85fd" />
 
-<img width="200" height="400" alt="IMG_9712" src="https://github.com/user-attachments/assets/cd8a3252-be25-4c76-aea9-71c5c6ed06fe" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 19" src="https://github.com/user-attachments/assets/87d3c57a-4030-4eb9-9f3f-f39949cae218" />
 
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 39" src="https://github.com/user-attachments/assets/cae1528b-97a4-43f1-83a2-3c4af284448c" />
 
-<img width="200" height="400" alt="IMG_9713" src="https://github.com/user-attachments/assets/cde931b9-b926-474d-a1be-16b689d8664c" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 32 10" src="https://github.com/user-attachments/assets/5ba94153-a52f-4e4b-8aef-b3492f8d8ee5" />
 
-<img width="200" height="400" alt="IMG_9714" src="https://github.com/user-attachments/assets/40459b81-60cf-4db8-a837-ba527faa1d0c" />
+<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 29 22" src="https://github.com/user-attachments/assets/73b91c41-5e91-4ca2-b95a-78153072aaa4" />
 
-<img width="200" height="400" alt="IMG_9717" src="https://github.com/user-attachments/assets/7508cd53-7674-4de4-b05e-5263f79aeb15" />
-
-<img width="200" height="400" alt="IMG_9716" src="https://github.com/user-attachments/assets/d6ed5411-b3a5-452f-9697-3876a85bf425" />
 
 <img width="200" height="400" alt="IMG_9821" src="https://github.com/user-attachments/assets/d0b2c060-60aa-4b0a-89b4-28808047ec50" />
 
