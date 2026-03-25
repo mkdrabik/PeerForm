@@ -6,7 +6,7 @@ Users create an account, follow their friends, and then it begins. Every day use
 
 Utilizes SwiftUI, Swift, Supabase, TypeScript, FCM, GitHub Actions. 
 
-Testflight: https://testflight.apple.com/join/hmnqAqg1
+App Store: https://apps.apple.com/us/app/peerform/id6753922649
 
 <img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 49 51" src="https://github.com/user-attachments/assets/32e9209d-138b-4814-bca9-3ae76d4ece1c" />
 
