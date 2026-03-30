@@ -8,21 +8,11 @@ Utilizes SwiftUI, Swift, Supabase, TypeScript, FCM, GitHub Actions.
 
 App Store: https://apps.apple.com/us/app/peerform/id6753922649
 
-<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 49 51" src="https://github.com/user-attachments/assets/32e9209d-138b-4814-bca9-3ae76d4ece1c" />
-
-<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 29" src="https://github.com/user-attachments/assets/7d4fa26e-5199-4a15-b8f7-bd81a1ab85fd" />
-
-<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 19" src="https://github.com/user-attachments/assets/87d3c57a-4030-4eb9-9f3f-f39949cae218" />
-
-<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 28 39" src="https://github.com/user-attachments/assets/cae1528b-97a4-43f1-83a2-3c4af284448c" />
-
-<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 32 10" src="https://github.com/user-attachments/assets/5ba94153-a52f-4e4b-8aef-b3492f8d8ee5" />
-
-<img width="200" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-03 at 12 29 22" src="https://github.com/user-attachments/assets/73b91c41-5e91-4ca2-b95a-78153072aaa4" />
-
-
-<img width="200" height="400" alt="IMG_9821" src="https://github.com/user-attachments/assets/d0b2c060-60aa-4b0a-89b4-28808047ec50" />
-
-
-<img width="200" height="400" alt="IMG_9873" src="https://github.com/user-attachments/assets/a2d8c0c3-5b91-42f2-90f1-d388e1fc3f54" />
-
+<img width="200" height="400" alt="profile" src="https://github.com/user-attachments/assets/c6fc3167-4d7e-4a96-9b9c-acc639d0e246" />
+<img width="200" height="400" alt="feed" src="https://github.com/user-attachments/assets/d37537bf-ed06-4b93-b7d6-b05429a36c7b" />
+<img width="200" height="400" alt="createpost" src="https://github.com/user-attachments/assets/9af94fdf-86bc-4d30-986c-07187ed3278e" />
+<img width="200" height="400" alt="leaderboard" src="https://github.com/user-attachments/assets/b2585902-2e54-4bb4-967f-bbd20893791d" />
+<img width="200" height="400" alt="social" src="https://github.com/user-attachments/assets/eb5470bd-f334-4492-a4df-d64fb46bf813" />
+<img width="200" height="400" alt="notifications" src="https://github.com/user-attachments/assets/7bb5ca7e-08ff-41e3-907e-ffbbe5a247c0" />
+<img width="200" height="400" alt="comments" src="https://github.com/user-attachments/assets/d0b2c060-60aa-4b0a-89b4-28808047ec50" />
+<img width="200" height="400" alt="music" src="https://github.com/user-attachments/assets/a2d8c0c3-5b91-42f2-90f1-d388e1fc3f54" />
